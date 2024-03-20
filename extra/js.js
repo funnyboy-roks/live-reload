@@ -15,7 +15,4 @@
     });
 
     // window.scrollTo(0, document.body.scrollHeight);
-    console.log(socket);
-
-    window.socket = socket;
 })()
